@@ -3,11 +3,11 @@
     "acme-liba": {
       "flake": false,
       "locked": {
-        "lastModified": 1781881661,
-        "narHash": "sha256-ft9JabY+EX8yeuoByklP4ps07Uo/PbH4OuoXk1vIu6U=",
+        "lastModified": 1781881705,
+        "narHash": "sha256-Gv78Nmfp1J8/cKZLuC5qgCHAso0wFiQuhg9JLzD65rY=",
         "owner": "nixcademy",
         "repo": "acme-liba",
-        "rev": "f6b0499f403522cadc5aa4ead02707d971fdf13f",
+        "rev": "39c03e3533bae4d7086b540a2989e9e76e9f07b1",
         "type": "github"
       },
       "original": {
@@ -51,11 +51,11 @@
     "acme-libd": {
       "flake": false,
       "locked": {
-        "lastModified": 1781881664,
-        "narHash": "sha256-rN702jc66dlloZN9yZga2TT/kZ/6LxSTmjAnEwvEAn0=",
+        "lastModified": 1781881708,
+        "narHash": "sha256-J2jno2vKxQfmkSxno8GPdqZHEGznMgq2OBeZEcg5Css=",
         "owner": "nixcademy",
         "repo": "acme-libd",
-        "rev": "eeb39352e53cd4135737bc625435eb2b757b3e82",
+        "rev": "d24f287e918b1a69d244d9de3d686f93ffb62356",
         "type": "github"
       },
       "original": {
@@ -67,11 +67,11 @@
     "acme-myapp": {
       "flake": false,
       "locked": {
-        "lastModified": 1781881665,
-        "narHash": "sha256-NxOEj11UA/uBbADkgvoFPZrVdxOw8b5ZFAUys/RKTkU=",
+        "lastModified": 1781881710,
+        "narHash": "sha256-7S7U/w/h3mPCXVzksh9p8ry99wJgy9RDiIcTfYYtkro=",
         "owner": "nixcademy",
         "repo": "acme-myapp",
-        "rev": "eae7f62a60e3a24494f251c66a0cf56eb69bb02a",
+        "rev": "e939cfe9d8ea3cdbcf5146e288518a51ce27f8fc",
         "type": "github"
       },
       "original": {
