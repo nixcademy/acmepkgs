@@ -3,8 +3,8 @@
     "acme-liba": {
       "flake": false,
       "locked": {
-        "lastModified": 1781878247,
-        "narHash": "sha256-nkgEndagFsl0vrJaIiPLv9zgRhojHVHRUygZSH1URKM=",
+        "lastModified": 1781880967,
+        "narHash": "sha256-ecXzIjSlvEhV7PvRlV94vHeqcpn5WzL5hug7gldmp88=",
         "path": "/tmp/acmepkgs-scenario/acme-liba",
         "type": "path"
       },
@@ -16,8 +16,8 @@
     "acme-libb": {
       "flake": false,
       "locked": {
-        "lastModified": 1781878254,
-        "narHash": "sha256-BET1JiATP7+lOrsaaVNOkNhiOztUrsSl1nqt0BGsKL4=",
+        "lastModified": 1781880972,
+        "narHash": "sha256-rlCyktXV0utCnor0RJiCQruZ7MPDuRu8xP3Q56rN1jM=",
         "path": "/tmp/acmepkgs-scenario/acme-libb",
         "type": "path"
       },
@@ -29,8 +29,8 @@
     "acme-libc": {
       "flake": false,
       "locked": {
-        "lastModified": 1781878260,
-        "narHash": "sha256-9KvI1/wp0mMl57UKngny4EfxU9tqqFRtlquMhOn/Hdk=",
+        "lastModified": 1781880697,
+        "narHash": "sha256-AYIn1F/0AnCe03ly/EQ1JkmnP4T7anPFzU3YbC+W4EA=",
         "path": "/tmp/acmepkgs-scenario/acme-libc",
         "type": "path"
       },
@@ -42,8 +42,8 @@
     "acme-libd": {
       "flake": false,
       "locked": {
-        "lastModified": 1781878264,
-        "narHash": "sha256-gNGAz6CnGwJckuDnPgcFukWG9HklyXER7kKDBZG3oc8=",
+        "lastModified": 1781880842,
+        "narHash": "sha256-JKMGvvYQjNgyRZO5S8LyBrB5EdbZ0EBT+5Y82VbR58M=",
         "path": "/tmp/acmepkgs-scenario/acme-libd",
         "type": "path"
       },
@@ -55,8 +55,8 @@
     "acme-myapp": {
       "flake": false,
       "locked": {
-        "lastModified": 1781878270,
-        "narHash": "sha256-sjtp5aQre/r9t48PWqJr0fDOeHi+w1U/5TBSInapYUI=",
+        "lastModified": 1781880844,
+        "narHash": "sha256-ijGoyD6PW0+HyDWAUrSRcvj4O0tZ00ZKax/LW/PFvrE=",
         "path": "/tmp/acmepkgs-scenario/acme-myapp",
         "type": "path"
       },
