@@ -8,23 +8,23 @@
     # Each ACME project is consumed as a plain source tree (flake = false).
     # otherwise we get a "lock file explosion"
     acme-liba = {
-      url = "path:/tmp/acmepkgs-scenario/acme-liba";
+      url = "github:nixcademy/acme-liba";
       flake = false;
     };
     acme-libb = {
-      url = "path:/tmp/acmepkgs-scenario/acme-libb";
+      url = "github:nixcademy/acme-libb";
       flake = false;
     };
     acme-libc = {
-      url = "path:/tmp/acmepkgs-scenario/acme-libc";
+      url = "github:nixcademy/acme-libc";
       flake = false;
     };
     acme-libd = {
-      url = "path:/tmp/acmepkgs-scenario/acme-libd";
+      url = "github:nixcademy/acme-libd";
       flake = false;
     };
     acme-myapp = {
-      url = "path:/tmp/acmepkgs-scenario/acme-myapp";
+      url = "github:nixcademy/acme-myapp";
       flake = false;
     };
   };
