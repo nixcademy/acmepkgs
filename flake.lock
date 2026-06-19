@@ -1,0 +1,97 @@
+{
+  "nodes": {
+    "acme-liba": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1781878247,
+        "narHash": "sha256-nkgEndagFsl0vrJaIiPLv9zgRhojHVHRUygZSH1URKM=",
+        "path": "/tmp/acmepkgs-scenario/acme-liba",
+        "type": "path"
+      },
+      "original": {
+        "path": "/tmp/acmepkgs-scenario/acme-liba",
+        "type": "path"
+      }
+    },
+    "acme-libb": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1781878254,
+        "narHash": "sha256-BET1JiATP7+lOrsaaVNOkNhiOztUrsSl1nqt0BGsKL4=",
+        "path": "/tmp/acmepkgs-scenario/acme-libb",
+        "type": "path"
+      },
+      "original": {
+        "path": "/tmp/acmepkgs-scenario/acme-libb",
+        "type": "path"
+      }
+    },
+    "acme-libc": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1781878260,
+        "narHash": "sha256-9KvI1/wp0mMl57UKngny4EfxU9tqqFRtlquMhOn/Hdk=",
+        "path": "/tmp/acmepkgs-scenario/acme-libc",
+        "type": "path"
+      },
+      "original": {
+        "path": "/tmp/acmepkgs-scenario/acme-libc",
+        "type": "path"
+      }
+    },
+    "acme-libd": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1781878264,
+        "narHash": "sha256-gNGAz6CnGwJckuDnPgcFukWG9HklyXER7kKDBZG3oc8=",
+        "path": "/tmp/acmepkgs-scenario/acme-libd",
+        "type": "path"
+      },
+      "original": {
+        "path": "/tmp/acmepkgs-scenario/acme-libd",
+        "type": "path"
+      }
+    },
+    "acme-myapp": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1781878270,
+        "narHash": "sha256-sjtp5aQre/r9t48PWqJr0fDOeHi+w1U/5TBSInapYUI=",
+        "path": "/tmp/acmepkgs-scenario/acme-myapp",
+        "type": "path"
+      },
+      "original": {
+        "path": "/tmp/acmepkgs-scenario/acme-myapp",
+        "type": "path"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1781577229,
+        "narHash": "sha256-lrp67w8AulE9Ks53n27I45ADSzbOCn4H+CNW1Ck8B+8=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "acme-liba": "acme-liba",
+        "acme-libb": "acme-libb",
+        "acme-libc": "acme-libc",
+        "acme-libd": "acme-libd",
+        "acme-myapp": "acme-myapp",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
