@@ -3,11 +3,11 @@
     "acme-liba": {
       "flake": false,
       "locked": {
-        "lastModified": 1781881705,
-        "narHash": "sha256-Gv78Nmfp1J8/cKZLuC5qgCHAso0wFiQuhg9JLzD65rY=",
+        "lastModified": 1781881936,
+        "narHash": "sha256-OmV7Tjr0s3K+9VivvP78uMOdNK8umTfgrfpyZcOIQaE=",
         "owner": "nixcademy",
         "repo": "acme-liba",
-        "rev": "39c03e3533bae4d7086b540a2989e9e76e9f07b1",
+        "rev": "1972a5e531e7834abc5605dc1708e4aed69a40eb",
         "type": "github"
       },
       "original": {
@@ -19,11 +19,11 @@
     "acme-libb": {
       "flake": false,
       "locked": {
-        "lastModified": 1781879423,
-        "narHash": "sha256-iY0TwHKeUiCOyO6sOG0DFQ7xST9LsOcACEkJyKRw90M=",
+        "lastModified": 1781881923,
+        "narHash": "sha256-RdO8oFT8ewVx50RUpwdmXsrlAFIhjFWU4xN2IgMRN2M=",
         "owner": "nixcademy",
         "repo": "acme-libb",
-        "rev": "419dc7d39b99107388c945100baf4f657f114bdc",
+        "rev": "2a7a54ab568abf8cdd60f2805946e8042dd36de4",
         "type": "github"
       },
       "original": {
@@ -35,11 +35,11 @@
     "acme-libc": {
       "flake": false,
       "locked": {
-        "lastModified": 1781879436,
-        "narHash": "sha256-KfimeEsFUiukv+C/zV3JcjKoPYSGOF55e78we47WGWA=",
+        "lastModified": 1781881940,
+        "narHash": "sha256-WffyhCNkqbrpSucjTb0soI3bPU6JpezTZ+dFsQ8gHsg=",
         "owner": "nixcademy",
         "repo": "acme-libc",
-        "rev": "02cada69d525e04fb0dec00dd6000c618ab1016d",
+        "rev": "593984b3568506b334a177640ac3a2779f199439",
         "type": "github"
       },
       "original": {
@@ -51,11 +51,11 @@
     "acme-libd": {
       "flake": false,
       "locked": {
-        "lastModified": 1781881708,
-        "narHash": "sha256-J2jno2vKxQfmkSxno8GPdqZHEGznMgq2OBeZEcg5Css=",
+        "lastModified": 1781881942,
+        "narHash": "sha256-B8PtFh2L+NxFgQbEtaeRyW/BM8aYBH9qQJWICKZ6CsU=",
         "owner": "nixcademy",
         "repo": "acme-libd",
-        "rev": "d24f287e918b1a69d244d9de3d686f93ffb62356",
+        "rev": "68722de72bebfed7c39cc092745d35f8da0dca2b",
         "type": "github"
       },
       "original": {
@@ -67,11 +67,11 @@
     "acme-myapp": {
       "flake": false,
       "locked": {
-        "lastModified": 1781881710,
-        "narHash": "sha256-7S7U/w/h3mPCXVzksh9p8ry99wJgy9RDiIcTfYYtkro=",
+        "lastModified": 1781881944,
+        "narHash": "sha256-R48sSjcFZW6757P/bSZb9qGX9ChaBrkJcpOgfktssSk=",
         "owner": "nixcademy",
         "repo": "acme-myapp",
-        "rev": "e939cfe9d8ea3cdbcf5146e288518a51ce27f8fc",
+        "rev": "f1909033c70284349660bab0b54edec84800061f",
         "type": "github"
       },
       "original": {
