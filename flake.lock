@@ -80,6 +80,23 @@
         "type": "github"
       }
     },
+    "gcan": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1781433793,
+        "narHash": "sha256-BZfdc3ddAa9CPC3GOH9G3QJbECbSRY7ymzIMtYl076M=",
+        "owner": "applicative-systems",
+        "repo": "gcan",
+        "rev": "ab8885e036bacf1047b11a6f82863a92e2bbb2d1",
+        "type": "github"
+      },
+      "original": {
+        "owner": "applicative-systems",
+        "ref": "v1.1.1",
+        "repo": "gcan",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1781577229,
@@ -103,6 +120,7 @@
         "acme-libc": "acme-libc",
         "acme-libd": "acme-libd",
         "acme-myapp": "acme-myapp",
+        "gcan": "gcan",
         "nixpkgs": "nixpkgs"
       }
     }
