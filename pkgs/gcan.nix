@@ -5,7 +5,7 @@
   acme-srcs,
 }:
 
-rustPlatform.buildRustPackage (finalAttrs: {
+rustPlatform.buildRustPackage {
   pname = "gcan";
   version = "1.1.1";
 
@@ -30,4 +30,4 @@ rustPlatform.buildRustPackage (finalAttrs: {
     mainProgram = "gcan";
     platforms = lib.platforms.unix;
   };
-})
+}
